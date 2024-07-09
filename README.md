@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Gautam</h1>
 <h3 align="center">A passionate Data analyst and Machine Learning Enthusiast.</h3>
-<img align="right" alt="Coding" witdh="100" src="https://img.freepik.com/premium-vector/data-analyst-sits-work-front-computer-device-showing-statistics-graphs-front-him-flat-style-cartoon-illustration-vector_610956-825.jpg">
 
 - 🔭 I’m currently working on **projects based on Python & SQL.**
 
