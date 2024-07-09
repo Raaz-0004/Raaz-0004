@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yuvraj-gautam-75a280229/](https://www.linkedin.com/in/yuvraj-gautam-75a280229/)
 
-- ⚡ Fun fact **I don't think that i am Introvert**
+- ⚡ Fun fact **I don't think that i am an Introvert**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
