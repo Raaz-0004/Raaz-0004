@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **projects based on Python & SQL.**
 
-- 🌱 I’m currently learning **Data Analytics by using tools such as Python,SQL,EXCEL,Tableau,Power BI and etc**
+- 🌱 **Data Analytics by using tools such as SQL, Python, Excel & Power BI and etc**
 
-- 👯 I’m looking to collaborate on **projects in Data Science and Bussiness Anatytics.**
+- 👯 Actively looking for **Data / Bussiness Anatytics roles .**
 
 - 📫 How to reach me **gautamyuvraj361@gmail.com**
 
