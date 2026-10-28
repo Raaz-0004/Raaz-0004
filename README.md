@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Gautam</h1>
 <h3 align="center">A passionate Data analyst and Machine Learning Enthusiast.</h3>
 
-- 🔭 I’m currently working on **projects based on Python & SQL.**
+- 🔭 I’m currently developing more **Product and Category** information and strategy execution.
 
-- 🌱 **Data Analytics by using tools such as SQL, Python, Excel & Power BI and etc**
+- 🌱 **Product Analytics by using tools such as Metabase, Mixpanel, SQL, Python, Excel and etc**
 
-- 👯 Actively looking for **Data / Bussiness Anatytics roles .**
+- 👯 Currently working as an Associate at a bengaluru based retail start-up, Material Depot. Looking forward to work in **Category & Anatytics roles.**
 
 - 📫 How to reach me **gautamyuvraj361@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yuvraj-gautam-75a280229/](https://www.linkedin.com/in/yuvraj-gautam-75a280229/)
 
-- ⚡ Fun fact **I don't think that i am an Introvert**
+- ⚡ Fun fact **People think I am an Introvert**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
