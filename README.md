@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Gautam</h1>
-<h3 align="center">A passionate Product & Category Enthusiast.</h3>
+<h3 align="center">A Passionate Product & Category Enthusiast.</h3>
 
 - 🔭 I’m currently developing more **Product and Category** information and strategy execution.
 
